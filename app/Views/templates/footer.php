@@ -1,0 +1,1 @@
+<em>&copy; <?php date('Y') ?></em>
